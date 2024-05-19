@@ -5,7 +5,7 @@ import App from './App';
 import './index.css';
 
 import axios from 'axios';
-axios.defaults.baseURL = 'https://exploreai1.vercel.app/';
+axios.defaults.baseURL = 'https://i-love-ai-server.vercel.app/';
 
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
